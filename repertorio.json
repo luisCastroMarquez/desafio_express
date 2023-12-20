@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Hoy",
+    "artist": "Farruko ft Daddy",
+    "tone": "Regueton"
+  },
+  {
+    "id": 2,
+    "title": "Rompe",
+    "artist": "Daddy Yankee",
+    "tone": "Regaeton"
+  },
+  {
+    "id": 3,
+    "title": "Normal",
+    "artist": "Feid",
+    "tone": "Regeton"
+  },
+  {
+    "id": 4,
+    "title": "Rumba",
+    "artist": "Daddy Yankee",
+    "tone": "Reguetooon"
+  }
+]
